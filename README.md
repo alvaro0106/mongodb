@@ -65,7 +65,8 @@ sudo systemctl restart mongod
 sudo systemctl start mongod
 sudo systemctl status mongod
 
-
 ```
 
+Fuente:
+https://stackoverflow.com/questions/68937131/illegal-instruction-core-dumped-mongodb-ubuntu-20-04-lts
 
